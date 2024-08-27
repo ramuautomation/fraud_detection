@@ -4,7 +4,7 @@
 print("adde all ML_Model code here")
 
 def Model1():
-    print("added all ML1 algoritham code here")
+    print("added all ML1")
 
 def Model2():
     print("added all ML2 algoritham code here")

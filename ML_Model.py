@@ -13,4 +13,4 @@ def Model3():
     print("added all ML3 algoritham code here")
 
 
-print("agreed that ML2 model is having best accuracy")
+print("agreed that ML2 model is having best accuracy and strong predictions")
